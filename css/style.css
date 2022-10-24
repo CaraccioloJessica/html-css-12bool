@@ -1,0 +1,9 @@
+/* DIV COLOR */
+[class*="col"]{
+  background-color: #006CFA;
+  border: 2px solid white;
+  color: white;
+  min-height: 50px;
+  text-align: center;
+  line-height: 2.5;
+}
