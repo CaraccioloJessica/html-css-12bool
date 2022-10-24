@@ -1,0 +1,19 @@
+[class*="col"]{
+  min-height: 50px;
+}
+
+.black{
+  background-color: #000;
+}
+
+.red{
+  background-color: #b71c1c;
+}
+
+.white{
+  background-color: #fff;
+}
+
+.orange{
+  background-color: #f44336;
+}
